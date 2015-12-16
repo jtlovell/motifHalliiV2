@@ -1,0 +1,10 @@
+Package: motifHalliiV2
+Type: Package
+Title: Analyze motif analysis for P. hallii var. filipes V2
+Version: 1.0
+Date: 2015-12-15
+Author: J.T. Lovell
+Maintainer: J.T. Lovell <johntlovell@gmail.com>
+Description: Functions to take a list of gene and analyze promoter motif distributions
+License: MIT
+LazyData: TRUE
